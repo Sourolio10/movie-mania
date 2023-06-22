@@ -1,3 +1,3 @@
-# movie-mania
+# Cine-Tracker
 ### The purpose of this project is to develop a web application that utilizes a movie dataset from Kaggle and Group Lens to allow users to browse through a library of movies and view various visualizations that show trends in movies. The application aims to provide users with the flexibility to maintain a watchlist and a list of favorite movies. Additionally, users can create an account to save their preferences and keep track of their movie-watching habits. Overall, the project aims to enhance the user's movie-watching experience by providing a platform for easy and organized access to movie-related information.
 ![alt text](https://github.com/Sourolio10/movie-mania/blob/master/Final/cinema.png)
